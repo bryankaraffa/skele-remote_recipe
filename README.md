@@ -1,4 +1,13 @@
-rsc_skeleton_cookbook
-=====================
+# rsc_skeleton_cookbook cookbook
 
-Skeleton Cookbook with Berkshelf, Vagrant, Test-Kitchen
+# Requirements
+
+# Usage
+
+# Attributes
+
+# Recipes
+
+# Author
+
+Author:: RightScale Inc (<premium@rightscale.com>)
