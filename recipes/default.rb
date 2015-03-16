@@ -17,6 +17,7 @@
 # limitations under the License.
 #
 remote_recipe "remote_recipe-all" do
+  action :run
   recipe "sys_firewall::do_list_rules"
   recipients_tags ["bryankaraffa:tag=awesome"]
 end
